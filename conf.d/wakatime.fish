@@ -22,7 +22,7 @@ function __register_wakatime_fish_before_exec -e fish_postexec
   end
 
   # Plugin identification
-  set -l PLUGIN_NAME "ik11235/wakatime.fish-enhanced"
+  set -l PLUGIN_NAME "niklasschaeffer/wakatime.fish"
   set -l PLUGIN_VERSION "1.0.0"
 
   # Initialize variables
